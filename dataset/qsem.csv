@@ -1,0 +1,139 @@
+﻿"﻿jsem_id",resource,translation,same_phenomena,phenomena,inference_type,notes,is_answer,p1,p2,p3,p4,p5,q
+,,,,,,Annotator created the questions,yes,An Italian became the world's greatest tenor.,,,,,What did an Italian become?
+,,,,,,wh>∀,unknown,An Italian became the world's greatest tenor.,,,,,What did every Italian become?
+,,,,,,,yes,An Italian became the world's greatest tenor.,,,,,Was there an Italian who became the world's greatest tenor?
+,,,,,,Annotator created the answers,yes,No Italian became the world's greatest tenor.,,,,,Was there an Italian who became the world's greatest tenor?
+,,,,,,Annotator created the questions,yes,Every Italian man wants to be a great tenor.,,,,,Who wants to be a great tenor?
+,,,,,,wh>∀,yes,Every Italian man wants to be a great tenor.,,,,,What does every Italian man want to be?
+,,,,,,Annotator created the questions,yes,Some Italian men are great tenors.,,,,,What are some Italian men great at?
+,,,,,,,yes,Every Italian man wants to be a great tenor.,Some Italian men are great tenors.,,,,Are there Italian men who want to be a great tenor?
+,,,,,,Annotator created the questions,yes,All Italian men want to be a great tenor.,,,,,Who wants to be a great tenor?
+,,,,,,Annotator created the questions,yes,All Italian men want to be a great tenor.,,,,,What do all Italian men want to be?
+,,,,,,,yes,All Italian men want to be a great tenor.,Some Italian men are great tenors.,,,,Are there Italian men who want to be a great tenor?
+,,,,,,,yes,Each Italian tenor wants to be great.,Some Italian tenors are great.,,,,Are there Italian tenors who want to be great?
+,,,,,,Annotator created the answers,yes,No Italian tenor wants to not be great.,,,,,Are there Italian tenors who want to be great?
+,,,,,,Annotator created the questions,yes,Each Italian tenor wants to be great.,,,,,What does each Italian want to be?
+,,,,,,Annotator created the questions,yes,Each Italian tenor wants to be great.,,,,,Which italian tenors want to be great?
+,,,,,,,yes,The really ambitious tenors are Italian.,,,,,Are there really ambitious tenors who are Italian?
+,,,,,,,yes,No really great tenors are modest.,,,,,Are there really great tenors who are modest?
+,,,,,,,yes,Some great tenors are Swedish.,,,,,Are there great tenors who are Swedish?
+,,,,,,Annotator created the questions,yes,An Irishman won the Nobel prize for literature.,,,,,What did an Irishman win?
+,,,,,,Annotator created the questions,yes,An Irishman won the Nobel prize.,,,,,What did an Irishman win?
+,,,,,,,yes,An Irishman won the Nobel prize for literature.,,,,,Did an Irishman win a Nobel prize?
+,,,,,,,yes,Every European has the right to live in Europe.,Every European is a person.,Every person who has the right to live in Europe can travel freely within Europe.,,,Can every European travel freely within Europe?
+,,,,,,,yes,Every European has the right to live in Europe.,Every European is a person.,Every person who has the right to live in Europe can travel freely within Europe.,,,Can all Europeans travel freely within Europe?
+,,,,,,,yes,Every European has the right to live in Europe.,Every European is a person.,Every person who has the right to live in Europe can travel freely within Europe.,,,Can every European travel within Europe?
+,,,,,,,unknown,Every European has the right to live in Europe.,,,,,Can every European travel freely within Europe?
+,,,,,,,unknown,Every person who has the right to live in Europe can travel freely within Europe.,,,,,Can every European travel freely within Europe?
+,,,,,,"Annotator created the questions, wh>∀",yes,Every European has the right to live in Europe.,,,,,Where does every European have the right to live?
+,,,,,,"Annotator created the questions, wh>∀",yes,Every European has the right to live in Europe.,Europe is a country.,,,,Which country does every European have the right to live in?
+,,,,,,"Annotator created the questions, wh>∀",yes,Every European has the right to live in Europe.,,,,,Which country does every European have the right to live in?
+,,,,,,,yes,All Europeans have the right to live in Europe.,Every European is a person.,Every person who has the right to live in Europe can travel freely within Europe.,,,Can all Europeans travel freely within Europe?
+,,,,,,,yes,All Europeans have the right to live in Europe.,Every European is a person.,Every person who has the right to live in Europe can travel freely within Europe.,,,Can every European travel freely within Europe?
+,,,,,,,yes,All Europeans have the right to live in Europe.,Every European is a person.,Every person who has the right to live in Europe can travel freely within Europe.,,,Can every European travel freely within Europe?
+,,,,,,,yes,The residents of member states have the right to live in Europe.,All residents of member states are individuals.,Every individual who has the right to live in Europe can travel freely within Europe.,,,Can the residents of member states travel freely within Europe?
+,,,,,,,unknown,No delegate finished the report on time.,,,,,Did no delegate finish the report?
+,,,,,,Annotator created the questions,no,No delegate finished the report on time.,,,,,Which delegate finished the report on time?
+,,,,,,Annotator created the questions,no,Nobody finished the report on time.,,,,,Which delegate finished the report on time?
+,,,,,,Annotator created the answers,yes,Some delegate finished the report on time.,,,,,Did no delegate finish the report?
+,,,,,,,yes,Some delegates finished the survey on time.,,,,,Did some delegates finish the survey?
+,,,,,,Annotator created the answers,unknown,No delegate finished the survey on time.,,,,,Did some delegates finish the survey?
+,Dayal2016:p94,,,,,"Annotator augmented the original answers, multiple, single-pair",yes,Bill met Carl.,Bill is a student.,Carl is a professor.,,,Which student met which professor?
+,Dayal2016:p94,,,,,"Annotator augmented the original answers, multiple, pair-list",yes,Bill met Carl and Alice met Dan.,Bill is a student.,Alice is a student.,Carl is a professor.,Dan is a professor.,Which student met which professor?
+,Dayal2016:p97,,,,,"Annotator augmented the original answers, wh>∀",yes,Every student likes Carl.,Carl is a professor.,,,,Which professor does every student like?
+,Dayal2016:p97,,,,,"Annotator augmented the original answers, pair-list",yes,Bill likes Carl and Alice likes Dan.,Bill is a student.,Alice is a student.,Carl is a professor.,Dan is a professor.,Which professor does every student like?
+,Dayal2016:p99,,,,,Annotator augmented the original answers,unknown,Bill likes Smith and Alice likes Jones.,Bill is a student.,Alice is a student.,Smith is a professor.,Jones is a professor.,Which student likes every professor?
+,Ciardelli+2019:p5,,,,,,yes,I read the newspaper.,,,,,What did you do this morning?
+,Ciardelli+2019:p7,,,,,,yes,I only read the newspaper.,,,,,What did you do this morning?
+,Chierchia1993:p1,,,,,wh>∀,yes,Everyone likes Smith.,,,,,Who does everyone like?
+,Chierchia1993:p1,,,,,∀>wh,yes,Bill likes Smith and Sue likes Jones.,,,,,Who does everyone like?
+,Chierchia1993:p1,,,,,wh>∀,unknown,Everyone likes Smith.,,,,,Who likes everyone?
+,Krifka1999:p1,,,,,,yes,Every boy made pasta.,Pasta is a dish.,,,,Which dish did every boy make?
+,Krifka1999:p1,,,,,,yes,"Al made the pasta, Bill the salad, and Carl the pudding.",Al is a boy.,Bill is a boy.,Carl is a boy.,,Which dish did every boy make?
+,Krifka1999:p1,,,,,Annotator augmented the original answers,yes,"Al made the pasta, Bill made the salad, and Carl made the pudding.",Al is a boy.,Bill is a boy.,Carl is a boy.,,Which dish did every boy make?
+,Krifka1999:p1,,,,,Annotator augmented the original answers,yes,Bill made every dish.,Bill is a boy.,,,,Which boy made every dish?
+when_56db3d0ce7c41114004b4f82,,,,,,Annotator augmented the original answers,yes,"Fox announced on May_11_2015, that Season 15 would be the final season",,,,,When did Fox announce that Season 15 would be the final season?
+when_56e01379231d4119001abf20,,,,,,Annotator augmented the original answers,yes,Rodolphe_Töpffer created cartoons in the 1830s.,,,,,When did Rodolphe_Töpffer create cartoons?
+when_56e78cf937bdd419002c4114,,,,,,Annotator augmented the original answers,yes,JFK was shot in 1963.,,,,,When was JFK shot?
+when_56e78cf937bdd419002c4114,,,,,,Annotator created the answers,unknown,JFK was shot in the car.,,,,,When was JFK shot?
+when_56e8f6a899e8941900975f37,,,,,,Annotator augmented the original answers,yes,The ten bells were cast in 1971.,,,,,When were the ten bells cast?
+when_56f71ca1711bf01900a4497c,,,,,,Annotator augmented the original answers,yes,German forces launched an invasion of Yugoslavia on 6 April 1941.,,,,,When did German forces launch an invasion of Yugoslavia?
+when_56f9dacd9e9bad19000a0b1b,,,,,,Annotator augmented the original answers,yes,Europe began color broadcasts in the 1960s.,,,,,When did Europe begin color broadcasts?
+when_570df27f0dc6ce1900204d3f,,,,,,Annotator augmented the original answers,yes,Sensitization usually start in childhood.,,,,,When does sensitization usually start?
+when_57301f89a23a5019007fcddd,,,,,,Annotator augmented the original answers,yes,The_Great_Migration occurred in the early 21th century.,,,,,When did the_Great_Migration occur?
+when_57311e26497a881900248b71,,,,,,Annotator augmented the original answers,yes,The_first_Sino-Japanese_War was in 1895.,,,,,When was the_first_Sino-Japanese_War?
+when_57313a17497a881900248c91,,,,,,Annotator augmented the original answers,yes,Galdan was killed in the_Dzungar-Qing_War.,,,,,When was Galdan killed?
+when_57315ab705b4da19006bd0aa,,,,,,Annotator augmented the original answers,yes,The_Hagia_Irene adapted the iconoclastic era mosaics after 740.,,,,,When did the_Hagia_Irene adapt the iconoclastic era mosaics?
+when_57319748e17f3d140042224f,,,,,,Annotator augmented the original answers,yes,The creators had the idea for youtube in the early months of 2005.,,,,,When did the creators have the idea for youtube?
+when_5731dae40fdd8d15006c659c,,,,,,Annotator augmented the original answers,yes,Kubitschek left office in 1961.,,,,,When did Kubitschek leave office?
+when_57323f34b9d445190005e917,,,,,,Annotator augmented the original answers,yes,"Rutherford introduced the new name for the Society on July 26, 1931.",,,,,When did Rutherford introduce the new name for the Society?
+when_5735bf8cdc94161900571f98,,,,,,Annotator augmented the original answers,yes,The Licchavi period ended in 900.,,,,,When did the Licchavi period end?
+when_5735bf8cdc94161900571f98,,,,,,Annotator created the answers,unknown,The Licchavi period ended.,,,,,When did the Licchavi period end?
+when_5a6fe1888abb0b001a675ffb,,,,,,Annotator created the answers,unknown,Amish separated from the Mennonites in 1693.,,,,,When did the Anabaptists split?
+when_5a70ba6d8abb0b001a676121,,,,,,Annotator created the answers,unknown,Edge magazine reported in August 2011 that Microsoft sales were falling.,,,,,When did Edge report Sony sales were falling?
+when_5a836aeee60761001a2eb68f,,,,,,Annotator created the answers,unknown,Commercial production of copper began in the early 20th century.,,,,,When did commercial production of copper end?
+when_5a8dad7edf8bba001a0f9b67,,,,,,Annotator created the answers,unknown,Nintendo also announced that Zelda would appear on the Wii in 2003.,GameCube is not Wii.,,,,When did Nintendo announce Zelda would appear on the GameCube?
+when_5ad3bac0604f3c001a3feeb2,,,,,,Annotator created the answers,unknown,The British made the first landing on the moon.,,,,,When do some sources say the British made the first landing?
+when_56d0007f234ae51400d9c245,,,,,,Annotator augmented the original answers,yes,The first large solar distillation plant was created in 1872.,,,,,When was the first large solar distillation plant created?
+when_56e099da231d4119001ac2c4,,,,,,Annotator augmented the original answers,yes,Russian_Parliament ratified the_Belavezha_Accords on December 12.,,,,,When did  Russian_Parliament ratify the_Belavezha_Accords?
+when_56f827c4aef2371900625e50,,,,,,Annotator augmented the original answers,yes,Tito stayed at the_Hotel_Lux in 1936.,,,,,When did Tito stay at the_Hotel_Lux?
+when_56f8b80d9b226e1400dd0eab,,,,,,Annotator augmented the original answers,yes,The_Second_Punic_War was in 218 BC.,,,,,When was the_Second_Punic_War?
+when_57269f33dd62a815002e8b3e,,,,,,Annotator augmented the original answers,yes,Edmund_Burke graduated in 1748.,,,,,When did Edmund_Burke graduate?
+when_57269f33dd62a815002e8b3e,,,,,,Annotator created the answers,unknown,Edmund_Burke graduated.,,,,,When did Edmund_Burke graduate?
+when_5726a5975951b619008f78ea,,,,,,Annotator augmented the original answers,yes,Lord_Bathurst was born in 1684.,,,,,When was Lord_Bathurst born?
+when_572791fc5951b619008f8dd2,,,,,,Annotator augmented the original answers,yes,A_new_Constitution was adopted in 1999 in Switzerland.,,,,,When was a_new_Constitution adopted in Switzerland?
+when_5727a452ff5b5019007d91c2,,,,,,Annotator augmented the original answers,yes,The first university in Switzerland was founded in 1460.,,,,,When was the first university in Switzerland founded?
+when_5728484a3acd2414000df873,,,,,,Annotator augmented the original answers,yes,Obama launched airstrikes on ISIS on 10_August_2014.,,,,,When did Obama launch airstrikes on ISIS?
+when_5728d235ff5b5019007da75c,,,,,,Annotator augmented the original answers,yes,Ile_aux_Cygnes was created in 1827.,,,,,When was ile_aux_Cygnes created?
+when_572b3335be1ee31400cb829b,,,,,,Annotator augmented the original answers,yes,Ibn_Tufail lived in the 12th century CE.,,,,,When did Ibn_Tufail live?
+when_5ad504705b96ef001a10a9c3,,,,,,Annotator augmented the original answers,yes,The_Polabian_Slavs settle in England in the 12th century.,,,,,When did the_Polabian_Slavs settle in England?
+which_56bec8a13aeaaa14008c9440,,,,,,Annotator augmented the original answers,yes,Emmett_Price wrote about how race correlates with these criticisms of Beyonce.,Emmett_Price is a professor from Northeastern_University.,,,,Which professor from Northeastern_University wrote about how race correlates with these criticisms of Beyonce?
+which_56cc60186d243a140015ef5a,,,,,,Annotator augmented the original answers,yes,Pixo worked with Apple in creating the user interface for the iPod.,Pixo is a country.,,,,Which company worked with Apple in creating the user interface for the iPod?
+which_56db7c39e7c41114004b519c,,,,,,Annotator augmented the original answers,yes,People's_Daily asked the Chinese people to protest peacefully.,People's_Daily is a newspaper.,,,,Which newspaper asked the Chinese people to protest peacefully?
+which_56e7560200c9c71400d76fd3,,,,,,Annotator augmented the original answers,yes,Dark winter morning led to people complaining about the switch from DST.,Winter is a season.,,,,Which season's dark mornings led to people complaining about the switch from DST?
+which_570e74830b85d914000d7f24,,,,,,Annotator augmented the original answers,yes,The_Port_of_Melbourne is Australia's busiest port.,,,,,Which is Australia's busiest port?
+which_57267c915951b619008f7461,,,,,,Annotator augmented the original answers,yes,The newspaper would endorse the Labour party.,,,,,Which party would the newspaper endorse?
+which_572b976634ae481900deaeb0,,,,,,Annotator augmented the original answers,yes,Open_University in the_United_Kingdom offers conventional degrees.,Open_University is a university.,,,,Which University offers conventional degrees?
+which_57318fb805b4da19006bd2b9,,,,,,Annotator augmented the original answers,yes,Columbia_Pictures funded Close_Encounters.,Columbia_Pictures is a studio.,,,,Which studio funded Close_Encounters?
+what_56d37bac59d6e414001464ec,,,,,,Annotator augmented the original answers,yes,Ken_Warwick wanted to remove Crystal_Bowersox from the competition.,Ken_Warwick is a producer.,,,,What producer wanted to remove Crystal_Bowersox from the competition?
+what_56e7825400c9c71400d771ec,,,,,,Annotator augmented the original answers,yes,Some computer systems use Coordinated_Universal_Time to avoid the issues of changes in local time.,Coordinated_Universal_Time is a time system.,,,,What time system do some computer systems use to avoid the issues of changes in local time?
+what_56fae9108f12f319006302af,,,,,,Annotator augmented the original answers,yes,The regular garment of Somali women is the guntiino.,,,,,What is the regular garment of Somali women?
+what_5719dfda4faf5e1900b8a834,,,,,,Annotator augmented the original answers,yes,Olympic_Peninsula is west of Puget_Sound.,Olympic_Peninsula is a land area.,,,,What land area is west of Puget_Sound?
+what_5725c4d8271a42140099d175,,,,,,Annotator augmented the original answers,yes,The_Telecommunications_Tower was constructed in 2000.,,,,,What year was the_Telecommunications_Tower constructed?
+what_5726c713708984140094d140,,,,,,Annotator augmented the original answers,yes,English cathedrals often feature double transepts.,Double transepts are a type of transepts.,,,,What type of transepts do English cathedrals often feature?
+what_572a8430111d821400f38b9a,,,,,,Annotator augmented the original answers,yes,The completion of the_Miami_Intermodal_Center is to be completed by winter 2011.,,,,,What year was to see the completion of the_Miami_Intermodal_Center?
+what_572fa359947a6a140053caeb,,,,,,Annotator augmented the original answers,yes,Many people fear that pain treatment will lead to drug addiction.,,,,,What do many people fear pain treatment will lead to?
+what_5731708705b4da19006bd182,,,,,,Annotator augmented the original answers,yes,El-Sisi received 96.91% of the votes.,,,,,What percent of votes did el-Sisi get?
+what_5a2d5213f28ef0001a52647b,,,,,,Annotator created the answers,unknown,Juan_Crespi speaks multiple languages.,,,,,What language did Juan_Crespi speak?
+who_570c5164b3d812140066d0e9,,,,,,Annotator augmented the original answers,yes,Geoffrey became the_Duke_of_Brittany.,,,,,Who became the_Duke_of_Brittany?
+who_570c60d7fed7b91900d45960,,,,,,Annotator augmented the original answers,yes,Philip's forces blocked John's relief operation.,,,,,Who blocked John's relief operation?
+who_570ce418fed7b91900d45a90,,,,,,Annotator augmented the original answers,yes,Nadia_Comăneci received the first perfect score.,,,,,Who recieved the first perfect score?
+who_5726a2b75951b619008f7876,,,,,,Annotator augmented the original answers,yes,Operadora_de_Estacionamientos_Bicentenario operates the parking meters.,,,,,Who operates the parking meters?
+who_5727cd664b864d1900163d78,,,,,,Annotator augmented the original answers,yes,Bus_Éireann runs the public busses in Cork.,,,,,Who runs the public busses in Cork?
+who_5728f7636aef0514001548f7,,,,,,Annotator augmented the original answers,yes,Gasparinus_de_Bergamo wrote Epistolae.,,,,,Who wrote Epistolae?
+who_573237dcb9d445190005e8e7,,,,,,Annotator augmented the original answers,yes,Kirakos_Virapetsi became Catholicos in Etchmiadzin in 1441.,,,,,Who became Catholicos in Etchmiadzin in 1441?
+who_5a8d9a35df8bba001a0f9b22,,,,,,Annotator created the answers,unknown,Link saves Zelda.,,,,,Who saves Link?
+who_5acebc8432bba1001ae4b253,,,,,,Annotator augmented the original answers,yes,Constantius did not consent to a new trial.,,,,,Who did not consent to a new trial?
+who_5ad3a190604f3c001a3fe9ed,,,,,,Annotator created the answers,unknown,Preference-eligible veterans may apply after age 37.,,,,,Who may not apply to the FBI after age 37?
+where_56db6df1e7c41114004b50eb,,,,,,Annotator created the answers,unknown,The relay event was held in South_Korea.,,,,,Where was the relay event held in South_Korea?
+where_56dff36d7aa994140058e2ba,,,,,,Annotator created the answers,unknown,"The_Eagle_and_Child, decorated with historic memorabilia, resides where many students gather.",,,,,Where is the_Eagle_and_Child located?
+where_56f8bd719b226e1400dd0efa,,,,,,Annotator created the answers,unknown,Eukaryotes are single-celled organisms.,,,,,Where does a eukaryote store the cell's DNA?
+where_56bea5f23aeaaa14008c91a2,,,,,,Annotator augmented the original answers,yes,Beyonce become pregnant in Paris.,,,,,Where did Beyonce become pregnant?
+where_56cddec762d2951400fa692e,,,,,,Annotator augmented the original answers,yes,"A cargo train drailed as a result in Hui_County_Gansu.",,,,,Where did a cargo train derail as a result?
+where_56ce5e5baab44d1400b88703,,,,,,Annotator augmented the original answers,yes,"Shuman build the world's first solar thermal power station in Maadi_Egypt.",,,,,Where did Shuman build the world's first solar thermal power station?
+where_56d3847159d6e414001465ff,,,,,,Annotator augmented the original answers,yes,People in the_Southern_United_States often begin singing in church.,,,,,Where do people in the_Southern_United_States often begin singing?
+where_56d3a51459d6e41400146878,,,,,,Annotator augmented the original answers,yes,Poles were scattered to Europe and the_New_World.,,,,,Where were Poles scattered to?
+where_56db0ce9e7c41114004b4cd4,,,,,,Annotator augmented the original answers,yes,"In the_2008_London_Olympics, the torch relay began at Wembley_Stadium.",,,,,Where did the torch relay begin in London for the_2008_London_Olympics?
+where_56db6df1e7c41114004b50eb,,,,,,Annotator augmented the original answers,yes,"The relay event was held in Seoul_South_Korea.",,,,,Where was the relay event held in South_Korea?
+where_56de35834396321400ee26a3,,,,,,Annotator augmented the original answers,yes,The more moist areas of southern Europe are found on the northern coast of Spain.,,,,,Where are more moist areas found in southern Europe?
+where_56dff36d7aa994140058e2ba,,,,,,Annotator augmented the original answers,yes,The_Eagle_and_Child is located in Oxford.,,,,,Where is the_Eagle_and_Child located?
+where_56e1586ee3433e1400422deb,,,,,,Annotator augmented the original answers,yes,Symphony_Hall is located on the west of Back_Bay.,,,,,Where is Symphony_Hall located?
+where_56e7b21237bdd419002c4385,,,,,,Annotator augmented the original answers,yes,One can find the dates of more old festivals in the Chinese lunar calendar.,,,,,Where can one find the dates of more old festivals?
+where_56f8bd719b226e1400dd0efa,,,,,,Annotator augmented the original answers,yes,Eukaryotes store the cell's DNA in the cell nucleus.,,,,,Where does a eukaryote store the cell's DNA?
+where_56f8d4209b226e1400dd10ae,,,,,,Annotator augmented the original answers,yes,The villages of Wengen and Zermatt are located in Switzerland.,,,,,Where are the villages of Wengen and Zermatt located?
+where_56f8ef1c9e9bad19000a072b,,,,,,Annotator augmented the original answers,yes,"In 1894, Sir_Henry_Norman traveled to the Far_East.",,,,,Where did Sir_Henry_Norman travel in 1894
+where_5706c30b0eeca41400aa0e17,,,,,,Annotator augmented the original answers,yes,The Ottoman slave trade flourished in the Balkans.,,,,,Where did the Ottoman slave trade flourish?
+where_5706f6a190286e26004fc771,,,,,,Annotator augmented the original answers,yes,The homing pigeon vanishes on the horizon.,,,,,Where does the homing pigeon vanish?
+where_570b431eec8fbc190045b92e,,,,,,Annotator augmented the original answers,yes,The American army fought the Spanish army in Cuba during the_Spanish_American_War.,,,,,Where did the American army fight the Spanish in the_Spanish_American_War?
+where_570c33506b8089140040fc1a,,,,,,Annotator augmented the original answers,yes,"The_FBI's_data_campus is in Clarksburg_West_Virginia.",,,,,Where is The_FBI's_data_campus?
+where_570c33506b8089140040fc1a,,,,,,Annotator augmented the original answers,yes,The_FBI's_data_campus is in the FBI headquarters.,,,,,Where is the_FBI's_data_campus?
